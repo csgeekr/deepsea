@@ -1,0 +1,10 @@
+{
+  "name": "Abyssal Glide",
+  "description": "A web application that uses the webcam to capture hand gestures, controlling a marine creature swimming freely on the screen. Features sound generation based on movement and Turing pattern designs.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
