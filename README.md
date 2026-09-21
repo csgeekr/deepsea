@@ -1,20 +1,5 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 深海游弋
 
-# Run and deploy your AI Studio app
+一款基于摄像头检测身体动作的互动式游戏，让上班族在久坐期间多一些身体律动乐趣。
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/5938cfd0-732f-4e20-82e2-30dc2d547000
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+游戏网站：https://csgeekr.com/deepsea/
